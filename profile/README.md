@@ -2,6 +2,8 @@
 
 Bienvenue sur **Quizzlify**, la plateforme ultime pour créer et jouer à des quiz ! Testez vos connaissances, défiez vos amis et grimpez dans le classement ! 🚀
 
+![Quizzlify Banner](public/banner.png)
+
 ## ✨ Fonctionnalités principales
 
 🎨 **Créer un quiz** :
@@ -41,7 +43,7 @@ Envie d'améliorer **Quizzlify** ? C'est simple :
 5. **Ouvrez une pull request**.
 
 ## 📜 License
-Quizzlify est open-source, sous la ![license](LICENSE) GPL v3.0. 
+Quizzlify est open-source, sous la ![licence](LICENSE) CC BY-NC 4.0. Voir [ce lien](https://creativecommons.org/licenses/by-nc/4.0/) pour plus d'information.
 ---
 
 🎯 **Prêt à défier vos connaissances ? Rejoignez Quizzlify dès maintenant !** 🚀
